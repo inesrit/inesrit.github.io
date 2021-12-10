@@ -1,0 +1,20 @@
+{
+  "name": "nodefiles",
+  "version": "16.13.0",
+  "description": "Personal Website",
+  "main": "hello.js",
+  "scripts": {
+    "start":"node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inesrit/Personal-Website.git"
+  },
+  "author": "Ines Rita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inesrit/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/inesrit/Personal-Website#readme"
+}
