@@ -199,7 +199,15 @@ hr.star-primary:after {
 
 
 
+.img-centered {
+  margin: 0 auto;
+}
 
+.img-responsive{
+  max-width: 100%;
+  height: auto;
+  display:block;
+}
 
 
 
